@@ -41,7 +41,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 ## 5. Looking ahead: your developer habits
 
-- What is one habit or strategy from this project that you want to reuse in future labs or projects?
+- What is one habit or strategy from this project that you want to reuse in future labs or projects? I would read through the code, run the program and test on UI. 
   - This could be a testing habit, a prompting strategy, or a way you used Git.
-- What is one thing you would do differently next time you work with AI on a coding task?
-- In one or two sentences, describe how this project changed the way you think about AI generated code.
+- What is one thing you would do differently next time you work with AI on a coding task? I don't think I have any? 
+- In one or two sentences, describe how this project changed the way you think about AI generated code. I think AI works pretty well, we just have to manually recheck its code. 
